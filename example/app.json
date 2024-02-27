@@ -11,9 +11,8 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["../app.plugin.js"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "expo.modules.superwall.example"
