@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.dependency 'ExpoModulesCore'
 
   s.dependency 'SuperwallKit', '~> 3.0'
-  s.dependency 'RevenueCat'
+  s.dependency 'RevenueCat', '~> 4.0'
 
   # Swift/Objective-C compatibility
   s.pod_target_xcconfig = {
