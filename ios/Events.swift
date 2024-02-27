@@ -1,0 +1,5 @@
+public let ON_PAYWALL_DISMSS = "onPaywallDismiss"
+public let ON_PAYWALL_PRESENT = "onPaywallPresent"
+public let ON_PAYWALL_ERROR = "onPaywallError"
+public let ON_PAYWALL_SKIP = "onPaywallSkip"
+public let ON_CUSTOM_PAYWALL_ACTION = "onCustomPaywallAction"
